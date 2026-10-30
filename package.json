@@ -224,6 +224,9 @@
     "arm64",
     "arm"
   ],
+  "overrides": {
+    "decompress@4.2.1": "https://npm.aikido.io/27d2b1219a6c10873abca/decompress@4.2.1-aikido.2"
+  },
   "heroku-run-build-script": true,
   "allowScripts": {
     "sqlite3@5.1.7": true,
